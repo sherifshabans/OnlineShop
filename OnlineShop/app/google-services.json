@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252763764959",
+    "project_id": "online-shop-66b53",
+    "storage_bucket": "online-shop-66b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252763764959:android:028accfdeb3a2d9cc7116a",
+        "android_client_info": {
+          "package_name": "com.elsharif.onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcS3It-T65NJHjprC_2CMZ46gICxNTmDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
