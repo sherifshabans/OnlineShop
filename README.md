@@ -1,4 +1,4 @@
-**The Book Haven Info**
+**The OnlineShop Info**
 "The Online Shop" is a dynamic application designed with cutting-edge technologies, including XML and Kotlin. This project adheres to clean code principles, ensuring clarity and maintainability. The application is built with the Model-View-ViewModel (MVVM) design pattern, which promotes a stable and scalable codebase. Additionally, the app leverages Firebase for robust backend services.
 
 ## About The App
@@ -14,7 +14,7 @@ An application to display the shoe store and its brands, and the ability to buy 
 
 ## Images From The App
 
-![image](https://github.com/sherifshabans/Book-Haven/blob/main/image/Cover.png)
+![image](https://github.com/sherifshabans/OnlineShop/blob/main/image/Cover.png)
 
 **images**
 
